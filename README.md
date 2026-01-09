@@ -70,4 +70,4 @@ Sicilian Pizza
  
 
 # DASHBOARD IMAGE
-![IMAGE alt]
+![IMAGE alt]pizaa dashboard.png

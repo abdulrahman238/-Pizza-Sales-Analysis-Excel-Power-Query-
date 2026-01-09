@@ -70,4 +70,5 @@ Sicilian Pizza
  
 
 # DASHBOARD IMAGE
-![IMAGE alt]pizaa dashboard.png
+![IMAGE alt][pizaa dashboard.png](https://github.com/abdulrahman238/-Pizza-Sales-Analysis-Excel-Power-Query-/blob/714bf5c863cf42d56eeb89d2175d4d23509adb55/pizaa%20dashboard.pngb89d2175d4d23509adb55/pizaa%20dashboard.png
+pizaa dashboard.png)

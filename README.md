@@ -15,7 +15,8 @@ Which pizzas might be removed from the menu, and which could be promoted?
 
 
 **🔍 Analysis**
-*1. Customer Orders by Hour*
+
+1. Customer Orders by Hour*
 
 Orders start increasing from 11 AM
 
@@ -25,7 +26,7 @@ Highest number of orders recorded at 12 PM
 
 Very low activity early morning and late night
 
-*2. Customer Orders by Day*
+**2. Customer Orders by Day**
 
 Friday recorded the highest number of orders
 
@@ -33,7 +34,7 @@ Saturday and Thursday also showed strong demand
 
 Sunday had the lowest number of orders
 
-*3. Revenue & Seasonality*
+**3. Revenue & Seasonality**
 
 Highest revenue month: July
 
@@ -43,7 +44,7 @@ Lowest revenue months: September and October
 
 Revenue shows a mid-year peak and a decline toward early fall
 
-*4. Top-Selling Pizzas (by Revenue)*
+**4. Top-Selling Pizzas (by Revenue)**
 
 Top 10 products contributed a significant portion of total revenue:
 
@@ -66,3 +67,7 @@ Hawaiian Pizza
 Four Cheese Pizza
 
 Sicilian Pizza
+ 
+
+# DASHBOARD IMAGE
+![IMAGE alt]

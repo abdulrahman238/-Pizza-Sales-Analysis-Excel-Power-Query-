@@ -49,3 +49,8 @@ Top 10 products contributed a significant portion of total revenue:
 # DASHBOARD IMAGE
 
 ![Pizza Dashboard](https://github.com/abdulrahman238/-Pizza-Sales-Analysis-Excel-Power-Query-/raw/4d698a2ec1b488aad6a284782a863837e8c9c9a8/pizaa%20dashboard.png)
+
+
+# Product Percentage
+
+![Pizza Dashboard](https://github.com/abdulrahman238/-Pizza-Sales-Analysis-Excel-Power-Query-/blob/3b77f7ac0ff22129749b192858dc88c3e4f0d814/all%20pizza.png)
